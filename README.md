@@ -22,3 +22,7 @@ Feel free to explore, and don’t forget to follow me for more updates!
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{JjangYeonseo}?pet-id=1" width="1000" height="120"/>
 </a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{JjangYeonseo}"/>
+</a>
