@@ -20,10 +20,3 @@ If you’re interested in more of my thoughts, tutorials, and articles, please v
 Feel free to explore, and don’t forget to follow me for more updates!
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{JjangYeonseo}?pet-id=" width="1000" height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{JjangYeonseo}"/>
-</a>
