@@ -24,5 +24,5 @@ Feel free to explore, and don’t forget to follow me for more updates!
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{JjangYeonseo}"/>
+  <img src="https://render.gitanimals.org/farms/{JangYeonseo}"/>
 </a>
