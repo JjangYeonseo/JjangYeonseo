@@ -25,7 +25,7 @@ Feel free to explore, and don’t forget to follow me for more updates!
   <img
     src="https://render.gitanimals.org/lines/JjangYeonseo?pet-id=622115045510199021"
     width="600"
-    height="120"
+    height="150"
   />
 </a>
   
