@@ -1,5 +1,5 @@
 # JangYeonseo
-# Welcome to My GitHub+_+
+## Welcome to My GitHub+_+
 
 <img src="https://github.com/user-attachments/assets/f1f41ca7-8708-497b-805f-9c26df64fc5a" alt="img" width="300" />
 
