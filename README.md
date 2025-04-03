@@ -38,3 +38,5 @@ Feel free to explore, and don’t forget to follow me for more updates!
   height="300"
 />
 </a>
+
+![snake gif](https://github.com/JjangYeonseo/JjangYeonseo/blob/output/github-contribution-grid-snake.svg)
